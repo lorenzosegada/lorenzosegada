@@ -5,10 +5,9 @@
 * 🎨 I'm a self-taught UI designer
 * 📱 I make apps for Android and iOS
 * 🎓 I'm a Computer Science student (graduating in October 2021)
-* 🌐 You can see some of my projects on [my portfolio](https://freshidea.com/jonah/)
+* 🌐 You can see some of my projects on [my portfolio](https:#)
 <p align="left">
-  <a href="https://freshidea.com/jonah/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
-    <a href="http://eyl327.mywebcommunity.org/promos/"><img alt="Gifts" title="Gifts for you" src="https://img.shields.io/badge/-Links%20to%20free%20stuff-000000?style=for-the-badge&logo=coveralls&logoColor=white"/></a>
+  <a href="#"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 
