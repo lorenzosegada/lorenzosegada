@@ -47,3 +47,12 @@
 <a href= "https://www.linkedin.com/in/lorenzo-segada-lopez/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
+
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=lorenzosegada&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/lorenzosegada)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=lorenzosegada&theme=material-palenight)](https://github.com/lorenzosegada)
+</div>
+
+
