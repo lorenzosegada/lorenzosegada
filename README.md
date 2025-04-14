@@ -1,16 +1,20 @@
 <h1 align="center"><b>Hi , I'm Lorenzo Segada </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 📖 About me
-* 💻 I'm a full stack web developer
-* 🎨 I'm a self-taught UI designer
-* 📱 I make apps for Android and iOS
-* 🎓 I'm a Computer Science student (graduating in October 2021)
+
+🎓 I'm a Software Engineering student from Argentina, currently halfway through my degree.I'm passionate about Full-Stack Development, focused on creating dynamic and user-friendly web applications.
+- 🎨 I love combining code with clean, intuitive interface design.
+  - 💻 I'm a full stack web developer
+  - 🎨 I'm a self-taught UI designer
+- 🛠️ Technologies I’m working with:
+  - React ⚛️
+  - C# 🖥️
+  - MySQL🐬
 * 🌐 You can see some of my projects on [my portfolio](https:#)
 <p align="left">
   <a href="#"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
-
-
+🤝 Looking to connect with other developers, learn from open-source projects, and collaborate on creative, productive ideas.
 ## My Skills Include
 
 <h4> Languages </h4>
