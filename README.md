@@ -5,7 +5,7 @@
 🎓 I'm a Software Engineering student from Argentina, currently halfway through my degree.I'm passionate about Full-Stack Development, focused on creating dynamic and user-friendly web applications.
 - 🎨 I love combining code with clean, intuitive interface design.
   - 💻 I'm a full stack web developer
-  - 🎨 I'm a self-taught UI designer
+  - 🚀 I love turning ideas into real web experiences.
 - 🛠️ Technologies I’m working with:
   - React ⚛️
   - JavaScipt ⚡
