@@ -8,6 +8,7 @@
   - 🎨 I'm a self-taught UI designer
 - 🛠️ Technologies I’m working with:
   - React ⚛️
+  - JavaScipt ⚡
   - C# 🖥️
   - MySQL🐬
 * 🌐 You can see some of my projects on [my portfolio](https:#)
