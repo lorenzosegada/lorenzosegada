@@ -11,7 +11,7 @@
   - JavaScipt ⚡
   - C# 🖥️
   - MySQL🐬
-* 🌐 You can see some of my projects on [my portfolio](https:#)
+* 🌐 You can see some of my projects on [my portfolio](https:[#](https://portfolio-phi-three-44.vercel.app/))
 <p align="left">
   <a href="#"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
